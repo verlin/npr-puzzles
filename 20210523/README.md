@@ -1,5 +1,0 @@
-# 20210523
-
-This program was written to solve the weekly challenge for the [NPR Sunday Puzzle for May 23, 2021](https://www.npr.org/2021/05/23/999454616/sunday-puzzle-name-that-city). The challenge was to think of an eight letter word whose third and sixth letters were "A", remove the "A" characters, and the remaining letters would start a common sequence.
-
-The solution was to take a dictionary of English words and search for eight letter word that satisfied the "A" criteria, then print the proposed sequence. I implemented this in perl using a dictionary provided by [https://github.com/dwyl/english-words](https://github.com/dwyl/english-words). I consider this a bust, although the correct solution appears in the output of the program, I was not able to spot the common sequence. In fact, only 80 people submitted a solution to NPR, the smallest number I've heard in my years of listening to the puzzle.
