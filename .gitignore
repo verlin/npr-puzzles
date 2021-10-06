@@ -22,3 +22,6 @@ node_modules
 .sass-cache
 
 babynames
+
+# Banish .DS_Store
+.DS_Store
