@@ -1,0 +1,5 @@
+# 20211003
+
+This program was written to solve the weekly challenge for the [NPR Sunday Puzzle for October 3, 2021](https://www.npr.org/2021/10/03/1042727963/sunday-puzzle-categorically-correct). The challenge was to think of country and its largest city that, when their names are combined, the six-letter name of another country's capital city appears within.
+
+The solution was to take a list of countries with their capitals and a list of capitals, then search for the name of the capitals. I implemented this in perl using datasets from Wikipedia, specifically the articles [List of countries by largest and second largest cities](https://en.wikipedia.org/wiki/List_of_countries_by_largest_and_second_largest_cities) and [List of national capitals](https://en.wikipedia.org/wiki/List_of_national_capitals). This solution returns several false positives where the capital is itself the largest city in the country, or the name of the country itself, but the correct answer appears in the output and is fairly obvious.

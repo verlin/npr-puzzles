@@ -1,0 +1,623 @@
+Aalborg	Aalborgenser	Aalborgenser
+Aarhus	Aarhusian	Aarhusian
+Aberdeen	Aberdonian	Aberdonian
+Abidjan	Abidjanais	Abidjanais
+Adana	Adanite	Adanite
+Adelaide	Adelaidean	Adelaidean
+Ahmedabad	Amdavadi	Amdavadi
+Aguascalientes	Hidrocálido	Hidrocálido
+Agde	Agathois	Agathois
+Aix-en-Provence	Aixois	Aixois
+Albany	Albanian	Albanian
+Albuquerque	Albuquerquean	Burqueño
+Aleppo	Aleppine	Aleppine
+Alexandria	Alexandrian	Alexandrine
+Almería	Almerian, Almeriense, Urcitano	Almerian, Almeriense, Urcitano
+Alpine[which?]	Alpinian	Alpinian
+Amalfi	Amalfitan	Amalfitan
+Amman	Ammani	Ammani
+Ammon	Ammonite	Ammonite
+Amparo	Amparense	Amparense
+Amsterdam	Amsterdammer	Amsterdammer
+Ankara	Ankarite	Ankarite
+Angeles	Angelino	Angelino
+Antakya	Antakyan, Antiochian	Antakyan, Antiochian
+Antalya	Antalyan	Antalyan
+Aosta	Aostan, Aostain	Aostan, Aostain
+Aqaba	Aqabawi	Aqabawi
+Arequipa	Arequipeño (m) Arequipeña (f)	Arequipeño (m) Arequipeña (f)
+Armagh	Armachian	Armachian
+Armidale	Armidilian	Armidilian
+Ashdod	Ashdodi	Ashdodi
+Asheville	Ashevillain	Ashevillain
+Ashkelon	Ashkelonian	Ashkelonian
+Asmara	Asmaran	Asmaran
+Asunción	Asunceno	Asunceno
+Athens	Athenian, Attic[a]	Athenian
+Atlanta	Atlantien	Atlantan
+Auckland	Auckland	Aucklander, Jafa
+Austin	Austonian	Austinite
+Aydın	Aydinian	Aydinian
+Bacolod	Bacolodnon	Bacolodnon
+Balıkesir	Balikesirian	Balikesirian
+Baltimore	Baltimorean	Baltimorean
+Bandung	Bandungite	Bandungite
+Bangalore	Bangalorean	Bangalorean
+Bangkok	Bangkokian	Bangkokian
+Barcelona	Barcelonian	Barcelonian
+Barisal	Barisali	Barisali, Borishali, Barisailla, Borishailla
+Baton Rouge	Baton Rougean	Baton Rougean
+Bedford	Bedfordian (not Bedfordite)	Bedfordian
+Beersheba	Beersheban	Beersheban
+Beijing (Peking)	Beijingese, Pekinese	Beijinger, Pekinese
+Beirut	Beiruti	Beiruti
+Belfast	Belfast, Belfastian	Belfastie, Belfaster, Belfastian, Belfastite
+Belo Horizonte	Belo-Horizontino	Belo-Horizontino
+Belgrade	Belgradian	Belgradian, Belgrader
+Bellinzona	Bellinzonese	
+Benevento	Beneventan	Beneventan
+Bengeo	Bengean	Bengean
+Bergamo	Bergamasque	Bergamasque
+Berlin	Berliner	Berliner
+Bern	Bernese	Bernese
+Béziers	Bitterois	Bitterois
+Birmingham	Brummie	Brummie
+Birmingham, Alabama	Birminghamian	Birminghamian, Birminghamster, Ham'r
+Blackburn	Blackburnian	Blackburnian
+Bnei Brak	Bnei Brakian	Bnei Brakian
+Bodrum	Bodrumian	Bodrumite
+Boise	Boisean	Boisean
+Bologna	Bolognese	Bolognese
+Bogotá	Bogotano/a	Bogotano/a, Rolo/a
+Bolgatanga	Guruŋa	Guruŋa
+Bolton	Boltonian	Boltonian
+Bordeaux	Bordelais	Bordelais
+Bossangoa	Bossangoan	Bossangoan
+Boston	Bostonian	Bostonian
+Bradford	Bradfordian	Bradfordian
+Brasilia	Brasiliense	Brasiliense
+Bratislava	Bratislavan	Bratislavan
+Bremen	Bremer	Bremer
+Brescia	Brescian	Brescian
+Brighton	Brightonian	Brightonian
+Brisbane	Brisbanite	Brisbanite, Brisvegan (slang), Briswegian (slang)
+Bristol	Bristolian	Bristolian
+Brussels		Bruxellois,[b] Brusselaar,[c] Brusseleir[d]
+Bucaramanga	Bumangués, -a, Santandereana/o	Bumangués, -a, Santandereana/o
+Bucharest	Bucharestian	Bucharester
+Budapest	Budapesti	Budapester
+City of Buenos Aires	Porteño	Porteño
+Buffalo	Buffalonian	Buffalonian
+Burlington	Burlingtonian	Burlingtonian
+Bursa	Bursanese	Bursanese
+Cádiz	Gaditano,	Gaditano
+Calais	Calais	Calaisiens
+Cagayan de Oro	Cagayanon	Cagayanon
+Cairns	Cairnsitte	Cairnsitte
+Cairo	Cairene	Cairene
+Calgary	Calgarian	Calgarian
+Cali	Caleño	Caleño
+Cambridge	Cantabrigian	Cantabrigian
+Cambridge, Massachusetts	Cantabrigian	Cantabrigian
+Campinas	Campineiro	Campineiro
+Campo Grande	Campo-grandense	campo-grandense
+Canberra	Canberran	Canberran
+Cape Town	Capetonian	Capetonian
+Caracas	Caraquenian	Caraqueño (m), Caraqueña (f)
+Cardiff	Cardiffian	Cardiffian
+Carlisle	Carlislian	Carlislian
+Carson City	Carsonite	Carsonite
+Cartagena	Cartagenero (m) Cartagenera (f)	Cartagenero (m) Cartagenera (f)
+Carystus	Carystian	Christian
+Casper	Casperite	Casperite
+Castlecrag	Castlecragian	Cragman
+Cebu	Cebuano	Cebuano
+Charleston	Charlestonian	Charlestonian
+Charlotte	Charlottean	Charlottean
+Chelmsford	Chelmsfordian	Chelmsfordian
+Cheltenham	Cheltonian	Cheltonian
+Chennai	Chennaite	Chennaite
+Chester	Cestrian	Cestrian
+Chesterfield	Cestrefeldian	Cestrefeldian
+Cheyenne	Cheyenneite	Cheyenneite
+Chiasso	Chiassese	
+Chicago	Chicagoan	Chicagoan
+Chichester	Cicestrian	Cicestrian
+Chittagong	Chittagonian	Chittagonian, Chottogrami, Chatigaiya, Sitainga, Chittagainga
+Christchurch	Cantabrian	Christecclesian, Cantabrian
+Cincinnati	Cincinnatian	Cincinnatian
+Cleveland	Clevelander	Clevelander
+Coimbatore	Coimbatoreian	Coimbatoreian
+Colchester	Colchester	Colcestrian
+Columbus	Columbusite	Columbusite
+Copenhagen	Copenhagener	Copenhagener
+Córdoba	Cordobés, Cordobense	Cordobés
+Corinth	Corinthian	Corinthian
+Cork	Cork	Corkonian, Leesider
+Coventry	Coventrian	Coventrian
+Culiacán	Culichi	Cliché
+Cusco	Cusco	Cusqueño/a - cuzqueño/a
+Kraków (Cracow)	Krakovian, Cracovian	Krakovian, Cracovian
+Curitiba	Curitibano	Curitibano
+Dalaman	Dalamanian	Dalamanian
+Dallas	Dallasite	Dallasite
+Da Lat	Dalatese	Dalatese
+Damascus	Damascene	Damascene
+Darwin	Darwinian[e]	Darwinian[e]
+Davao	Davaoeño	Davaoeño
+Delhi	Delhiite	Delhiite
+Denizli	Denizlian	Denizlian
+Denver	Denver, Mile High	Denverite
+Derry	Derry	Derrian
+Detroit	Detroiter	Detroiter
+Devonport	Devonportian	Devonportian
+Dhaka	Dhakai	Dhakai, Dhakaiya, Dhakaite
+Diyarbakır	Diyarbakirian	Diyarbakirian
+Dresden	Dresdener	Dresdener
+Dublin	Dublin	Dubliner, Dub
+Dubai	Dubaite	Dubaite
+Duluth	Duluthian	Duluthian
+Dundee	Dundonian	Dundonian
+Dunedin	Dunedin	Dunedinite
+Durango	Durangoan	Duranguense, Durangoan
+Durban	Durban	Durbanite
+East Troy	East Trojan	East Trojan
+Edinburgh	Edinburgensian[f][1]	Edinburger[g][2]
+Edmonton	Edmontonian	Edmontonian
+Eilat	Eilatian	Eilatian
+Épalinges	Palinsard	Palinsard
+Epidaurus	Epidaurian	Epidaurian
+Erzurum	Erzurumian	Erzurumian
+Eskişehir	Eskishehirian	Eskishehirian
+Everett	Everettite	Everettite
+Exeter	Exonian	Exonian
+Famagusta	Salaminioti	Salaminioti, Σαλαμινιώτη
+Fargo	Fargoan	Fargoan
+Ferrara	Ferraran	Ferraran
+Fethiye	Fethiyennese	Fethiyennese
+Filettino	Filettinesi	Filettinesi
+Finchley	Finchleian	Finchleian
+Florence	Florentine	Florentine
+Fort Lauderdale		Fort Lauderdaler, Fort Lauderdalian
+Fort Wayne		Fort Wayner
+Fort Worth		Fort Worthian, Fort Worther
+Foz do Iguaçu	Iguaçuense	Iguaçuense
+Frankfurt	Frankfurter	Frankfurter
+Fredericton	Frederictonian	Frederictonian
+Fresno	Fresnan	Fresnan, Fresnoan, Fresnian
+Galway	Galway	Galwegian
+Gaza	Gazan	Gazan
+Gaziantep	Antepian	Antepian
+Gibraltar	Gibraltarian	
+Geelong	Geelong	Geelongite
+Geneva	Genevan, Genevese, Genfer	Genevan, Genevese, Genfer
+Genoa	Genoese	Genoese
+Germiston	Germistonian	Germistonian
+Ghent	Ghentian	Ghentian
+Glasgow	Glaswegian	Glaswegian, Weegie
+Godalming	Godhelmian	Godhelmian, Godalminger
+Gold Coast	Gold Coast	Gold Coaster
+Gosford	Gosford	Gosfordian
+Gothenburg	Gothenburger	Gothenburger
+Granada	Granadino, Granadí, Iliberitano	Granadino, Iliberitano
+Grand Rapids	Grand Rapidian	Grand Rapidian
+Graz	Grazer	Grazer
+Grenoble	Grenoblois	Grenoblois
+Guadalajara	Tapatío	Tapatío
+Guangzhou (Canton)	Cantonese	Cantonese
+Guayaquil	Guayaquilean	Guayaquilean
+Guelph	Guelphite	Guelphite[3]
+The Hague	Haguer	Haguer
+Haifa	Haifan	Haifan
+Halifax	Haligonian	Haligonian
+Hamburg	Hamburgian	Hamburger
+Hamilton	Hamiltonian	Hamiltonian
+Hamilton	Hamiltonian	Hamiltonian
+Hanoi	Hanoian	Hanoian
+Hanover	Hanoverian	Hanoverian
+Harbin	Harbinite	Harbinite
+Harrisburg	Harrisburger	Harrisburger
+Hartlepool	Hartlepudlian	Hartlepudlian, Monkey hanger
+Hastings	Hastingite	Hastingite
+Hastings	Hastinger	Hastinger
+Hatay	Hatayan (see also, Antakya)	Hatayan (see also, Antakya)
+Havana	Habanero (m) Habanera (f)	Habanero (m) Habanera (f)
+Helsinki	Helsinkian	Helsinkian
+Ho Chi Minh City	Saigonese	Saigoner
+Hobart	Hobartian	Hobartian
+Holon	Holonian	Holonian
+Hong Kong	Hong Kong, Hongkongish, Hongkongese	Hongkonger, Hongkongish, Honger, Hongkongese, Honkey
+Honolulu	Honolulan	Honolulan
+Houston	Houstonian	Houstonian
+Huelva	Onubense, Huelveño	Onubense, Huelveño
+Hyderabad	Hyderabadi	Hyderabadi
+Iloilo	Ilonggo	Ilonggo
+Indianapolis	Hoosier	Hoosier, Indianapolitan
+Invercargill	Invercargill	Invercargillite, Invercargillonian
+Inverness	Invernessian	Invernessian
+Ipoh	Ipohian	Ipohian
+Iqaluit		Iqalummiuq, Iqalummiut
+Iriga	Irigueño	Irigueño
+Islamabad	Islamabadi	Islamabadian
+Itabira	Itabirano (m) Itabirana (f)	Itabirano (m) Itabirana (f)
+Itapira	Itapirense	Itapirense
+Istanbul	Istanbulite	Istanbulite
+Izmir	Izmirite, Izmirian	Izmirite, Izmirian
+Izmit	Izmitite	Izmitite
+Jacksonville	Jacksonvillian, Jaxon	Jacksonvillian, Jaxon[4]
+Jaén	Jienense, Jaenés, Aurgitano	Jienense, Aurgitano
+Jakarta	Jakartan	Jakartanais, Jakartan
+Jerusalem	Jerusalemite, Yerushalmi	Jerusalemite, Yerushalmi
+Johannesburg	Johannesburg	Johannesburger
+Joshua, Texas	Joshuan	Joshuan, Joshuvian
+Juba	Juban	Juban
+Juiz de Fora	Juiz-forano	Juiz-forano
+Juneau City/Borough		Juneauite
+Kahramanmaraş	Marashian	Marashian
+Kandy	Kandian	Kandian
+Kaluga	Kaluzhanin	Kaluzhane
+Kansas City	Kansas Citian[h]	Kansas Citian; Kansas City, Kansan[i]
+Karachi	Karachiite	Karachiite
+Karpasia	Karpasias	Karpasias, Καρπασίας
+Kastoria	Kastorian	Kastorian
+Kayseri	Kayserian	Kayserian
+Kenosha	Kenoshan	Kenoshan
+Khulna	Khulna	Khulnaiya, Khulnaite
+Kyiv, Kiev	Kyivan, Kievan	Kyian (m), Kyianyn (m), Kyianka (f)
+Kingston	Kingstonian	Kingstonian
+Kitchener	Kitchenerite	Kitchenerite
+Kocaeli	Kocalian (see also, Izmit)	Kocaelian (see also, Izmit)
+Konya	Konyanite	Konyanite
+Knoxville	Knoxvillian	Knoxvillian
+Kuala Lumpur	KLite	KLite
+Kuching	Kuchingite	Kuchingite
+Lagos	Lagosian	Lagosian
+Lahore	Lahori	Lahori
+Lancaster	Lancastrian	Lancastrian
+La Paz	Paceño	Paceño
+Larnaka	Larnakade	Larnakade, Λάρνακαδε
+Las Vegas	Las Vegan	Las Vegan
+Laval	Lavalois(e)	Lavalois(e)
+Leeds	Leodensian	Leodensian, Loiner
+Leipzig	Leipziger	Leipziger
+Legazpi	Legazpeño	Legazpeño
+León	Leonese	Leonese
+Lexington	Lexingtonian	Lexingtonian
+Ligao	Ligaoeño	Ligaoeño
+Lima	Limeño	Limeño
+Limassol	Lemesouti	Lemesouti, Λεμεσούτη
+Limerick	Limerick	Limerickman, Shannonsider
+Linz	Linzer	Linzer
+Lisbon	Lisboeta	Lisboeta, Lisboner, Alfacinha
+Liverpool	Liverpudlian, Scouse	Liverpudlian, Scouser
+Livorno	Leghornese, Livornese	Leghornese, Livornese
+Locarno	Locarnese	
+London	Londoner	Londoner
+Londrina	Londrinense	Londrinense
+Los Angeles	Los Angeleno, Angeleno, Angeleño	Los Angeleno, Angeleno, Ángeleño
+Louisville	Louisvillian	Louisvillian
+Lucca	Lucchese	Lucchesi
+Lugano	Luganese	
+Luton	Lutonian	Lutonian
+Lviv	Lvivite, Lvivian, Leopolitan	Lvivite, Lvivian, Leopolitan, Lemberger ; Ukrainian Lvivianyn (m), Lvivianka (f)
+Lyon (Lyons)	Lyonese, Lyonnais	Lyonese, Lyonnais
+Macau	Macanese	Macanese
+Mackay	Mackayite	Mackayite
+Madrid	Madrilenian, Madrileño	Madrilenian, Madrileño
+Malacca	Malaccan	Malaccan
+Málaga	Malagenean, Malagueño, Malacitano	Malagenean, Malagueño, Malacitano
+Malatya	Malatyan	Malatyan
+Manaus	Manauara, Manauense	Manauara, Manauense
+Manchester	Mancunian	Mancunian, Manc
+Manila	Manileño, Manilan	Manileño
+Manisa	Manisanian	Manisanian
+Mantua	Mantuan	Mantuan
+Marathon	Marathonian	Marathonian
+Mardin	Mardinian	Mardinian
+Marmaris	Marmarisian	Marmarisian
+Marseille	Marseillais	Marseillais
+Marshall	Marshall,[5][6] Marshallite[j][7]	Marshallite[8][9]
+Masbate	Masbateño	Masbateño
+Mersin	Mersinite	Mersinite
+Mecca	Meccan	Meccan
+Medellín	Paisa	Paisa
+Medina	Medinan	Medinan
+Megara	Megarian	Megarian
+Melbourne	Melburnian	Melburnian, Melbournite
+Memphis	Memphian	Memphian
+Mendrisio	Mendrisiense, Mendrisiotto
+Mersin	Mersinite	Mersinite
+Messina	Messinese	Messinese
+Mexico City	Capitalino	Capitalino, Chilango, Defeño
+Miami	Miamian	Miamian
+Michigan	Michiganian	Michigander, Yooper (the latter, only if from the state's Upper Peninsula)
+Middlesbrough		Smoggie
+Milan, Italy	Milanese	Milanese
+Milan, New York		Milanites, Milaner
+Milwaukee	Milwaukeean	Milwaukeean
+Misrata	Misratan	Misratan
+Minneapolis	Minneapolitan	Minneapolitan
+Minot	Minotian	Minoter
+Mississauga	Mississaugan	
+Modena	Modenese	Modenese
+Mogi Guaçu	Guaçuano	Guaçuano
+Mogi Mirim	Mogimiriano	Mogimiriano
+Monaco	Monegasque	Monegasque, Monacoan
+Monrovia	Monrovian	Monrovian
+Monterrey	Regiomontano	Regiomontano
+Montevideo	Montevidean	Montevideano (m) Montevideana (f)
+Montreal	Montrealer	Montrealer, Montréalais
+Moose Jaw	Moose Jaw	Moose Javians
+Morphou	Morfitis	Morfitis, Μορφίτης
+Moscow	Muscovite	Muscovite
+Muğla	Mughlanian	Mughlanian
+Mumbai	Mumbaikar	Mumbaikar
+Muncie	Munsonian	Munsonian
+Munich	Münchner	Münchner
+Mymensingh	Mymensinghi	Mymensinghi, Mymensinghiya, Mymensinghiyo
+Mysore	Mysorean	Mysorean, Mysurinavaru, Mysuriga
+Naga	Nagueño	Nagueño
+Nagoya	Nagoyan	Nagoyan
+Nanaimo	Nanaimoite	Nanaimoite
+Nanjing (Nanking)	Nankinese	Nankinese
+Napier	Napieran	Napieran, Naperian
+Naples	Neapolitan	Neapolitan
+Nashville	Nashvillian	Nashvillian
+Nassau	Nassuvian	Nassuvian
+Navarre	Navarrian	Navarrian
+Nazareth	Nazarene	Nazarene
+Nelson	Nelson	Nelsonian
+Netanya	Netanyan, Netanian	Netanyan, Netanian
+Newport, Wales	Newportonian	Newportonian, Newporter
+New Orleans	New Orleanian	New Orleanian, New Orleaner, Yat
+New York City	New Yorker	New Yorker, Knickerbocker
+•The Bronx	Bronxite	Bronxite, Bronxer
+•Brooklyn	Brooklynite	Brooklynite, Trolley Dodger (archaic)
+•Manhattan	Manhattanite	Manhattanite
+•Queens	Queensite	Queensite
+•Staten Island[k]	Staten Islander	Staten Islander
+Newcastle	Novocastrian	Novocastrian
+Newcastle upon Tyne	Novocastrian, Geordie	Novocastrian, Geordie
+Nice	Niçois	Niçois
+Nicosia	Nicosian	Nicosian
+Norfolk	Norfolker, Norfolkian	Norfolker, Norfolkian
+Northampton	Northamptonian	Northamptonian
+Novara	Novarese	Novarese
+Nuremberg	Nuremberger, Nürnberger	Nuremberger, Nürnberger
+Oakbank	Oakbankian	Oakbankian
+Oakland	Oaklander	Oaklander
+Oamaru	Oamaru, Oamaruvian	Oamaruvian
+Oaxaca	Oaxacan	Oaxaqueño
+Odessa, Odesa	Odessan, Odessite, Odesan	Odessan, Odessite, Odesan, Ukrainian Odesyt (m), Odesytka (f)
+Oklahoma City	Oklahoma Cityan	Oklahoma Cityan
+Omak	Omakian	Omakian[10]
+Ordu	Ordunite	Ordunite
+Orléans	Orléanais	Orléanais
+Osaka	Osakan	Naniwakko, Osakan
+Oshawa	Oshawian	Oshawian
+Oslo	Oslovian	Oslovian
+Oswestry	Oswestrian	Oswestrian
+Ottawa	Ottawan	Ottawan, Ottawallite
+Oxford	Oxonian[l]	Oxonian[l]
+Paddock Lake	Paddock Laker	Paddock Laker
+Padua	Paduan	Paduan
+Paducah	Paducahan	Paducahan
+Paita	Paiteño (m) Paiteña (f)	Paiteño (m) Paiteña (f)
+Panaji	Panjimite	Ponnjekar/Panjimite
+Paphos	Paphian	Paphian
+Palermo	Palermitan	Palermitan
+Palmerston North	Palmerstonian	Palmerstonian
+Palmyra	Palmyrene	Palmyrene
+Paris	Parisian	Parisian
+Parma	Parmesan	Parmesan
+Penang	Penangite	Penangite
+Pescara	Pescarese	Pescarese
+Perth	Perthite, Perthian, Perthling, Perthonality, Pertho/Perthie	Perthite, Perthian, Perthling, Perthonality, Perthette
+Perugia	Perugian	Perugian
+Peterborough	Peterbourian	Peterbourian
+Philadelphia	Philadelphian	Philadelphian
+Phnom Penh		Phnom Penher
+Phoenix	Phoenician, Phoenixer	Phoenician, Phoenixer
+Pissouri	Pissouriti	Pissouriti, Πισσούρητη
+Pisa	Pisan	Pisan
+Pittsburgh	Pittsburgher	Pittsburgher, Yinzer
+Plymouth	Plymothian	Plymothian, Janner
+Polmont	Polmontarian	Polmontarian
+Pompeii	Pompeian, Pompeiian	Pompeian, Pompeiian
+Ponferrada	Ponferradian	Ponferradian
+Pont-à-Mousson	Mussipontain	Mussipontain
+Port Harcourt	Harcourtian, Port Harcourtian	Harcourtian, Port Harcourtian
+Port Moresby	Port Moresbian	Port Moresbian
+Porto	Portuense	Portuense, Tripeiro
+Porto Alegre	Porto-Alegrense	Porto-Alegrense
+Porto Cheli	Porto-Cheliki	Porto-Cheliki
+Portland	Portlander	Portlander
+Portsmouth	Portsmouthian	Portsmouthian
+Prague	Praguer	Praguer
+Pripyat	Pripyatin	Pripyatin
+Pristina		Prishtinali, Prishtina, Prištinci, Prištevci
+Providence	Providentian	Providentian
+Provo	Provoan	Provoan
+Puebla	Poblano	Poblano
+Punta Arenas	Puntarenian	Puntarenian
+Pylos	Pylian	Pylian
+Quebec City	Québécois[m]	Québécois[m]
+Quito	Quitonian	Quiteño (m) Quiteña (f)
+Rajshahi	Rajshahiyo	Rajshahiya, Rajshahiyo
+Radnor	Radnorian	Radnorian
+Raleigh	Raleighite	Raleighite
+Randall	Randallite	Randallite
+Rangpur City	Rangpuri	Rongpuri, Rangpuri
+Reading	Readingite	Readingite
+Red Deer	Red Deerian	Red Deerian
+Regina	Regina, Reginan	Reginan
+Reno	Renoite	Renoite, Riennese, Renal
+Rethymno	Rethymnian	Rethymnian
+Reims (Rheims)	Rémois, Cornichon	Rémois
+Reykjavík	Reykjavikian	Reykjavikian
+Ribeirão Preto	Ribeirão Pretano	Ribeirão Pretano
+Richmond	Richmonder	Richmonder
+Riga	Rigan	Rigan
+Rio de Janeiro	Carioca	Carioca
+Rhodes	Rhodian	Rhodian
+Roanoke	Roanoker	Roanoker
+Rochester	(Rochesterian)	Rochesterian
+Rockhampton	Rockhampton	Rockhamptonite
+Rome	Roman	Roman
+Rotorua	Rotoruan	Rotoruan
+Rotterdam	Rotter	Rotterdammer
+Rouen	Rouennais	Rouennais
+Rye	Ryer	Ryer, Mudhead
+Sacramento	Sacramentan	Sacramentan
+Saint Helier	Saint-Helian	Saint-Helian
+Saint-Étienne	Stéphanois	Stéphanois
+Saint-Jude, Quebec	Rocquevillois	Rocquevillois
+Saint Petersburg	Saint Petersburgian	Saint Petersburgian, (Saint) Petersburger
+Salem	Salemite	Salemite
+Salerno	Salernitan	Salernitan
+Salford	Salfordian	Salfordian
+Salt Lake City	Salt Lake	Salt Laker
+Salvador	Soteropolitano	Soteropolitano
+Salzburg	Salzburger	Salzburger
+Sambalpur	Sambalpuria	Sambalpuria
+Samsun	Samsunite	Samsunite
+San Antonio	San Antonian	San Antonian
+San Diego	San Diegan	San Diegan
+San Francisco	San Franciscan	San Franciscan
+San Jose	San Josean	San Josean
+Şanlıurfa	Urfanian	Urfanian
+Santa Barbara	Santa Barbarian	Santa Barbaran
+Santa Clarita	Santa Claritan	Santa Claritan
+Santa Cruz de la Sierra	Cruceño	Cruceño
+Santa Monica	Santa Monican	Santa Monican
+Santiago	Santiaguinos (m) Santiaguinas (f)	Santiaguinos (m) Santiaguinas (f)
+São Carlos	Sãocarlense, Carlopolitano	Sãocarlense, Carlopolitano
+São Luís	Ludovicense	Ludovicense
+São Paulo	Paulistano	Paulistano
+Sapporo		Sapporokko
+Sarajevo	Sarajevan	Sarajevan
+Saskatoon	Saskatoon, Saskatonian	Saskatonian, Saskabusher
+Sault Ste. Marie	Sooite/Saultite	Soos
+Savannah	Savannian	Savannian
+Seattle	Seattleite	Seattleite
+Sendai		Sendaikko
+Seoul	Seoulite	Seoulite
+Serra Negra	Serrano	Serrano
+Serres	Serrean	Serrean
+Seville	Sevillian, Sevillano, Hispalense	Sevillian, Sevillano, Hispalense
+Shanghai	Shanghainese	Shanghaine, Shanghainese
+Sheffield		Sheffielder
+Shillong		nong Shillong
+Shrewsbury	Salopian	Salopian
+Side	Sidetan	Sidetan
+Siena (Sienna)	Sienese, Siennese	Sienese, Siennese
+Silver Lake	Silver Laker	Silver Laker
+Singapore	Singaporean	Singaporean
+Skopje	Skopjan	Skopjan
+Slough	Sluff	Sluff
+Sofia	Sofian	Sofian
+Solihull	Silhillian	Silhillian
+Somers	Somersite	Somersite
+Sorrento	Sorrentine	Sorrentine
+Sorsogon	Sorsoganon	Sorsoganon
+Southampton	Sotonian	Sotonian
+Soweto	Sowetan	Sowetan
+Sparta	Spartan	Spartan
+Spoleto	Spoletian	Spoletian
+Shkoder	Shkodran	Shkodran
+St. Louis	St. Louisan	St. Louisan
+Stockholm	Stockholmer	Stockholmer
+Strasbourg	Strasbourgeois	Strasbourgeois
+Stuttgart	Stuttgarter	Stuttgarter
+Sunderland		Mackem
+Sunshine Coast	Sunshine Coast	Sunshine Coaster
+Swansea	Jack	Jack
+Swindon	Swindonian	Swindonian
+Sydney		Sydneysider
+Sylhet	Sylheti	Sylheti, Siloti, Sileti
+Syracuse, Italy	Syracusan	Syracusan
+Syracuse, New York	Syracusian	Syracusian
+Tabaco	Tabaqueño	Tabaqueño
+Tacna	Tacneño (m) Tacneña (f)	Tacneño (m) Tacneña (f)
+Tacoma	Tacoman	Tacoman
+Tallinn	Tallinner	Tallinner
+Tartu	Tartuan	Tartuan
+Taranto	Tarantine, Tarentine	Tarantine, Tarentine
+Tasmania	Tasman, Tasmanian	Tasmanian, Taswegian (jocular)
+Taunton	Tauntonian	Tauntonian
+Tauranga	Taurangan	Taurangian, Taurangan
+Tbilisi	Tbilisian	Tbilisian, Tbiliselebi
+Tehran	Tehrani, Tehranis[11][circular reference]	Tehrani
+Tekirdağ	Tekirdanian	Tekirdaninan
+Tel Aviv	Tel Avivian	Tel Avivi, Tel Avivian
+Thebes	Theban	Theban
+Thessaloniki	Thessalonian	Thessalonian
+Thunder Bay		Thunderbite
+Timaru	Timaru, Timaruvian	Timaruvians
+Tirana	Tiranas	Tirons
+Tokyo		Edokko, Tokyoite
+Toowoomba	Toowoomban	Toowoomban
+Toronto	Torontonian	Torontonian[12]
+Toulouse	Toulousian	Toulousian
+Tournai	Tournaisian	Tournaisian
+Townsville	Townsvillian	Townsvillian
+Trabzon	Trabzonian, Trebizonian, Trapezian, Trapezuntine	Trabzonian, Trebizonian, Trapezian, Trapezuntine
+Traverse City	Traverse Citian	Traverse Citian
+Trevor	Trevorite	Trevorite
+Trent	Tridentine	Tridentine
+Trieste	Triestine	Triestine
+Tripoli	Tripolitan	Tripolitan
+Tripoli, Greece	Tripolitano	Tripolitano
+Trois-Rivières	Trifluvien, Trifluvienne, Trifluvian	Trifluvien, Trifluvienne, Trifluvian
+Trois-Rivières	Trois-rivieran	Trois-rivieran
+Tucson	Tucsonian	Tucsonian, Tucsonan
+Tulsa	Tulsan	Tulsan
+Turin	Turinese	Turinese
+Twin Lakes	Twin Laker	Twin Laker
+Tyre	Tyrian	Tyrian
+Uberlândia	Uberlandense	Uberlandense
+Valencia	Valencian	Valencian
+Valladolid	Vallisoletano, Pucelano, Pinciano	Vallisoletano, Pucelano, Pinciano
+Valparaíso	Porteño (m), Porteña (f)	Porteño (m), Porteña (f)
+Van	Vanian	Vanian
+Vancouver, British Columbia	Vancouverite	Vancouverite
+Vancouver, Washington	Vancouverite	Vancouverite
+Venice	Venetian	Venetian
+Veracruz	Veracruzano	Veracruzano, Jarocho
+Verona	Veronese	Veronese
+Vicenza	Vicentine	Vicentine
+Vichy	Vichyssois	Vichyssois
+Victoria	Victorian	Victorian
+Vienna	Viennese, Wiener	Viennese, Wiener
+Villanova	Villanovan	Villanovan
+Ville Platte	Ville Platian	Ville Platian
+Vilnius	Vilnian	Vilnian
+Vizag	Vizagite	Vizagite
+Warangal	Warangalite	Warangalite
+Warsaw	Varsovian	Varsovian
+Washington, D.C.	Washingtonian[n]	Washingtonian[n]
+Waterford	Waterfordian	Waterfordian, Déise, Suirsider
+Waterloo	Waterluvian	Waterluvian
+Wellington	Wellington, Wellingtonian	Wellingtonian
+Wheatland	Wheatlander	Wheatlander
+Whitehorse	Whitehorser	Whitehorser
+Wichita	Wichitan	Wichitan
+Wilmot	Wilmotter	Wilmotter
+Winchester		Wintonian
+Winnipeg		Winnipeggers, Winnipeger
+Wolverhampton		Wulfrunian
+Wythenshawe	Wythenshavian	Wythenshavian
+Xalapa	Xalapeño	Xalapeño
+Xanthi	Xanthian	Xanthian
+Yellowknife	Yellowknifer	Yellowknifer
+Yerevan	Yerevantsi	Yerevantsi
+Yogyakarta	Yogyakartan, Jogjan	Yogyakartan, Jogjan
+Yokohama	Yokohaman	Hamakko[13]
+Zacatecas	Zacatecan	Zacatecano
+Zagreb	Zagrebian	Zagreber, Zagrebian
+Zamboanga	Zamboangueño	Zamboangueño
+Zaragoza	Zaragozan, Saragossan	Zaragoazan, Saragossan
+Zonguldak	Zonguldaki	Zonguldakian
+Zintan	Zintani	Zintani
+Zurich	Zuricher, Zürcher	Zuricher, Zürcher
+Zwolle	Zwollenaar	Zwollenaar
